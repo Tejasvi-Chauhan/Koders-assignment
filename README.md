@@ -54,8 +54,10 @@ Task-Manager/
 
 Create a `.env` file inside the backend folder:
 
+```env
 PORT=5000
 MONGO_URI=your_mongodb_connection_string
+```
 
 
 Frontend runs on: http://localhost:5173  (if Vite)
