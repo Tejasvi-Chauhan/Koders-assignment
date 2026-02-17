@@ -50,7 +50,7 @@ Task-Manager/
 
 ##  Setup Instructions
 
-### Environment Variables
+## Environment Variables
 
 Create a `.env` file inside the backend folder:
 
