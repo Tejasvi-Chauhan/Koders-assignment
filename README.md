@@ -48,12 +48,22 @@ Task-Manager/
 
 ---
 
-## ⚙️ Setup Instructions
+##  Setup Instructions
 
-### 1️⃣ Clone the Repository
+###  Clone the Repository
 
 ```bash
-git clone <your-repo-link>
-cd Task-Manager
+git clone <https://github.com/Tejasvi-Chauhan/Koders-assignment>
+
+
+## Backend Structure
+cd backend
+npm run dev
+
+## Frontend Structure
+  cd frontend
+  npm install
+  npm run dev
+
 
 
