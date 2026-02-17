@@ -50,6 +50,19 @@ Task-Manager/
 
 ##  Setup Instructions
 
+### Environment Variables
+
+Create a `.env` file inside the backend folder:
+
+PORT=5000
+MONGO_URI=your_mongodb_connection_string
+
+
+Frontend runs on: http://localhost:5173  (if Vite)
+Backend runs on: http://localhost:5000
+
+
+
 ###  Clone the Repository
 
 ```bash
@@ -57,13 +70,13 @@ git clone <https://github.com/Tejasvi-Chauhan/Koders-assignment>
 
 
 ## Backend Structure
-cd backend
-npm run dev
+   cd backend
+   npm install
+   npm run dev
 
 ## Frontend Structure
   cd frontend
   npm install
   npm run dev
-
 
 
