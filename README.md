@@ -77,8 +77,8 @@ git clone <https://github.com/Tejasvi-Chauhan/Koders-assignment>
    npm run dev
 
 ## Frontend Structure
-  cd frontend
-  npm install
-  npm run dev
+   cd frontend
+   npm install
+   npm run dev
 
 
